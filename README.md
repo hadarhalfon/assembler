@@ -172,8 +172,8 @@ All errors are reported with **line numbers** and a clear message.
 
 ## 🧑‍💻 Author
 
-**Hadar Halfon**  
-Computer Science Student — The Open University of Israel
+**Hadar Halfon and Niv Solomon**  
+Computer Science Students — The Open University of Israel
 
 ---
 
